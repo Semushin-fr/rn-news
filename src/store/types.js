@@ -1,0 +1,2 @@
+export const NEWS_REQUESTED = 'NEWS_REQUESTED';
+export const NEWS_LOADED = 'NEWS_LOADED';
